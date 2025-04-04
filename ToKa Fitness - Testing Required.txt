@@ -1,7 +1,0 @@
-ToKa Fitness - Testing Required:
-- Compatibility Testing: Testing to make sure the software program or website designed is compatible with the device hardware and software your client uses
-- User Acceptance Testing: Testing to make sure the program meets the expectations and requirements of the client and users
-- Load Testing: Testing to make sure the program can work under pressure. Example; various or multiple number of users can use the system at the same time.
-- Integration Testing: This is the use of testing methodologies like Top-Down Approach and Bottom-Up Approach.
-- Front End Testing: This is testing for the responsive of the website or application on different devices.
-- Unit Testing: This is a type of functional Testing, where certain components in the software are working.
